@@ -68,6 +68,7 @@
 }
 
 .section .sec-con .bcon .items{
+  width: 150px;
   padding:  20px 0;
   box-sizing: border-box;
 }
